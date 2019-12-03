@@ -8,7 +8,7 @@ https://github.com/Foodvisor/coding-assignment
 
 No additional libraries are required to run this code
 
-##Testing
+## Testing
 
 Make sure the JSON files path is correctly set in [test.py](https://github.com/arimboux/Foodvisor_codingAssignment/blob/master/test.py) then run the script
 ```commandline
